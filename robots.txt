@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://buege.buege.net/sitemap.xml
