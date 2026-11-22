@@ -49,12 +49,16 @@ content:
     type: collection
     path: _drafts
     format: yaml-frontmatter
-    filename: "{primary}.md"
+    filename: "{year}-{month}-{day}-{url_name}.md"
     view:
       primary: title
     fields:
       - name: title
         label: 標題
+        type: string
+        required: true
+      - name: url_name
+        label: 網址名稱
         type: string
         required: true
       - name: author
