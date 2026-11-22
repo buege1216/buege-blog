@@ -1,5 +1,6 @@
 ---
 title: AI天氣穿搭建議
+date: "2026-11-22 21:46"
 url_name: AI-weather-clothes
 author: Buege
 ---
