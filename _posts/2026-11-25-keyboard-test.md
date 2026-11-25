@@ -1,5 +1,6 @@
 ---
 title: 關於鍵盤的抉擇
+date: "2026-11-25 21:08"
 url_name: keyboard-test
 author: Buege
 ---
